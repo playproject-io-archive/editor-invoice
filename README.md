@@ -1,4 +1,4 @@
 # invoice-editor
 create and publish invoices
 
-https://ethereum-financial-tools.github.io/invoice-editor/
+https://playproject-io-archive.github.io/editor-invoice/
